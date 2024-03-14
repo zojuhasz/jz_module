@@ -3,7 +3,7 @@ description: JZ module
 package: Custom
 type: module
 core_version_requirement: ^8 || 10
-version: '10.x-3.3'
+version: '10.x-4.3'
 project: 'lovak'
 datestamp: 1575735787
 
